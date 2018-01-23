@@ -16,7 +16,7 @@ exit 2
 fi
 echo "OK ! The installation will start now !"
 
-source="http://yakuzatk.net/script"
+source="https://github.com/BradVPN/centos7sh/"
 
 # Reset
 noclr='\e[0m'
