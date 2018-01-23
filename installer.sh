@@ -16,7 +16,7 @@ exit 2
 fi
 echo "OK ! The installation will start now !"
 
-source="https://github.com/BradVPN/centos7sh/"
+source="https://github.com/BradVPN/centos7sh"
 
 # Reset
 noclr='\e[0m'
